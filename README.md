@@ -1,2 +1,4 @@
 # AddressParser-and-AutoNavi-API
 利用AddressParser工具包和高德地图API 根据公司名称和地址对公司区域进行匹配
+
+使用高德API前请先访问https://lbs.amap.com/获取权限。
